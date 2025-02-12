@@ -2,7 +2,7 @@
   "dinoMappings": [
     {
       "fromClass": "/Game/PrimalEarth/Dinos/Toad/Toad_Character_BP.Toad_Character_BP",
-      "toClass": "/Game/PrimalEarth/Dinos/Toad/ARKOLOGY_Toad_Character_BP.Toad_Character_BP"
+      "toClass": "/Game/PrimalEarth/Dinos/Toad/ARKOLOGY_Toad_Character_BP.ARKOLOGY_Toad_Character_BP"
     },
   ]
 }
